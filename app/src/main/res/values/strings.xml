@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Material Design</string>
+    <string name="tab_a_label" />
+    <string name="tab_b_label" />
+    <string name="tab_c_label" />
+</resources>
